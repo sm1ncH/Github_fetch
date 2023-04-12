@@ -20,7 +20,7 @@ button.addEventListener('click', () => {
                 <div class="stats-div">
                     <a href="https://github.com/${data.login}"><img src="${data.avatar_url}" alt="avatar"></a>
                     <h2>${data.name}</h2>
-                    <h3>${data.login}</h3>
+                    <p>${data.bio}</p>
                 </div>
             `;
             stats.innerHTML = html;
