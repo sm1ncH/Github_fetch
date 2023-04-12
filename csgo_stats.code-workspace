@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../urice z urbanom"
+		},
+		{
+			"path": "../../Reactjs/vaja_react"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "csgo_stats"
+	}
+}
