@@ -47,7 +47,7 @@ button.addEventListener('click', () => {
                   }
                   .stats:hover {
                     transform: scale(1.7);
-                    // height: 270px;
+                    height: 270px;
                     margin-left: -20px;
                     margin-top: -20px;
                     height: 200px;
